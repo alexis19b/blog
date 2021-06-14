@@ -1,0 +1,32 @@
+
+.title {
+    text-align: center;
+    color: #4979ff;
+}
+
+.single {
+    padding: 2px 16px;
+    background: rgba(226, 225, 225, 0.966);
+    display: block;
+    margin: 20px 10px;
+    border-left: 8px solid #fff;
+    border-radius: 10px 10px;
+    
+    
+}
+
+.single:hover {
+    border-left: 8px solid #4979ff;
+    cursor: pointer;
+}
+
+.containerblog {
+    min-height: 100vh;
+    padding: 10 0.5rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: left;
+    align-items: left;
+    
+    
+  }
